@@ -36,4 +36,4 @@ degreeangleC = math.degrees(radangleC)
 
 print "The length of a is %s and angle A is %s ." % (a,degreeangleA)
 print "The length of b is %s and angle B is %s ." % (b,degreeangleB)
-print "The length of c is %s and angle C is %s ." % (a,degreeangleC)
+print "The length of c is %s and angle C is %s ." % (c,degreeangleC)
